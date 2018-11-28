@@ -13,7 +13,11 @@ menu:
  About: /about/
 
 # highlight
-highlight: tomorrow
+# atom-one-dark
+# atom-one-light
+# androidstudio
+# tomorrow
+highlight: atom-one-light
 
 # catalog
 catalog: true
